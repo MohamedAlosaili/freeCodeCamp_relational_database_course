@@ -96,3 +96,14 @@ more index.html
 touch styles.css
 ls --color=auto
 touch index.js
+touch .gitiqnore
+ls --color=auto
+touch .gitiqnore
+ls --color=auto
+touch a.gitiqnore
+ls --color=auto
+rm a.gitiqnore
+ls --color=auto
+touch .gitiqnore
+ls --color=auto
+touch .gitignore
