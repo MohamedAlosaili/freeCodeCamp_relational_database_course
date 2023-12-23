@@ -210,3 +210,5 @@ find
 ls --color=auto
 mkdir client
 mkdir client/src
+find
+mv index.html client/src
