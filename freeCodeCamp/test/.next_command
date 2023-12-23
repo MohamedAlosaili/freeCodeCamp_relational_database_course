@@ -222,3 +222,10 @@ find
 mv index.js client/src
 mv styles.css client/src
 find
+find index.js
+find src
+find images
+find client/src
+find */image
+find */images
+find client
