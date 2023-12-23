@@ -243,3 +243,4 @@ find
 __vsc_prompt_cmd_original
 cd client
 mkdir assets
+cd assets
