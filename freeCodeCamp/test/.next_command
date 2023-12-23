@@ -212,3 +212,6 @@ mkdir client
 mkdir client/src
 find
 mv index.html client/src
+ls --color=auto
+find
+find
