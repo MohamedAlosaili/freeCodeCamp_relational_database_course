@@ -159,3 +159,4 @@ cd ..
 ls --color=auto
 cp header.png
 cp header.png images
+cp footer.jpeg images
