@@ -346,3 +346,11 @@ more readme.md -i
 more -i readme.md
 less -i readme.md
 more README.md
+echo I made this boilerplate > README.md
+echo from the command line >> README.md
+more README.md
+echo for the freeCodeCamp bash lesson >> README.md
+echo for the freeCodeCamp bash lessons
+echo I made this boilerplate > README.md
+echo from the command line >> README.md
+echo for the freeCodeCamp bash lessons >> README.md
