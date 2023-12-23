@@ -182,3 +182,8 @@ mv roboto.font roboto.woff
 ls --color=auto
 list
 ls --color=auto
+mv lato.font menlo.font roboto.woff
+mv lato.font lato.woff
+ls --color=auto
+mv lato.font lato.ttf
+mv lato.woff lato.ttf
