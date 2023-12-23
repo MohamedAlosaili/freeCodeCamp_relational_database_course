@@ -142,3 +142,8 @@ cd ..
 cd images
 ls --color=auto
 cd ..
+cp header.png footer.jpeg CodeAlly.svg CodeRoad.svg images
+cd images
+ls --color=auto
+cd ..
+ls --color=auto
