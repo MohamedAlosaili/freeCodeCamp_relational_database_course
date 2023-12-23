@@ -360,3 +360,9 @@ cd ..
 ls --color=auto
 __vsc_prompt_cmd_original
 mv website website-boilerplate
+ls --color=auto
+__vsc_prompt_cmd_original
+find website
+find website-boilerplate
+find website-boilerplate
+ls --color=auto
