@@ -31,3 +31,7 @@ ls --color=auto
 cast
 cat
 cd test
+cd ..
+cd test
+ls --color=auto
+pwd
