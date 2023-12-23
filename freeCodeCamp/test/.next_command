@@ -76,3 +76,7 @@ more index.js
 more index.js
 cd ..
 cd ..
+cd \project
+cd \*/project
+cd \*/**/project
+cd ../../
