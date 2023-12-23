@@ -366,3 +366,5 @@ find website
 find website-boilerplate
 find website-boilerplate
 ls --color=auto
+copy --help
+cp --help
