@@ -47,3 +47,10 @@ ls --color=auto -l
 lc
 cd has
 ls --color=auto
+ls --color=auto -s
+ls --color=auto -l
+more li*
+more LICENSE-MIT
+ls --color=auto
+more README.md
+more README.md
