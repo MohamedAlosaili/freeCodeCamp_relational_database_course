@@ -199,3 +199,9 @@ ls --color=auto
 cd ..
 mv roboto.woff fonts
 find
+cd ..
+find
+cd website
+find
+find
+mv lato.ttf fonts
