@@ -335,3 +335,14 @@ echo I made this boilerplate >> README.md
 more README.md
 more README.md
 echo from the command line >> README.md
+more README.md
+echo from the command line > README.md
+more README.md
+echo I made this boilerplate >> README.md
+echo from the command line >> README.md
+more readme
+more readme.md
+more readme.md -i
+more -i readme.md
+less -i readme.md
+more README.md
