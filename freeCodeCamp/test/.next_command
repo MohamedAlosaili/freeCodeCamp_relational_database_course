@@ -379,3 +379,6 @@ rm a.png toms-website
 ls --color=auto
 cp website-boilerplate toms-website
 cp -r website-boilerplate toms-website
+ls --color=auto
+find toms-website website-boilerplate
+ls --color=auto
