@@ -123,3 +123,4 @@ ls --color=auto -H
 ls --color=auto --help
 ls --color=auto
 touch roboto.font
+touch lato.font
