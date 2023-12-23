@@ -298,3 +298,4 @@ mkdir images
 touch images/background.jpg
 rmdir images
 rm images/background.jpg
+rmdir images
