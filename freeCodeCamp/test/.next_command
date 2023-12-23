@@ -230,3 +230,5 @@ find */image
 find */images
 find client
 find --help
+find name index.html
+find -name index.html
