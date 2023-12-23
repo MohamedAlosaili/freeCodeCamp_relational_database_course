@@ -266,3 +266,10 @@ ls --color=auto
 cd ..
 ls --color=auto
 ls --color=auto
+mv *.{png,jpg,jpeg} client/assets/images
+find
+rmdir images
+ls --color=auto
+mv header.png client/assets/images
+find
+find -name images
