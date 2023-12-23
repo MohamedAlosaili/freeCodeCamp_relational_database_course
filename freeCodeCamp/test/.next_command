@@ -74,3 +74,4 @@ ls --color=auto
 more .
 more index.js
 more index.js
+cd ..
