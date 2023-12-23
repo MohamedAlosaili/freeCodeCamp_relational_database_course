@@ -229,3 +229,4 @@ find client/src
 find */image
 find */images
 find client
+find --help
