@@ -46,3 +46,4 @@ ls --color=auto
 ls --color=auto -l
 lc
 cd has
+ls --color=auto
