@@ -368,3 +368,14 @@ find website-boilerplate
 ls --color=auto
 copy --help
 cp --help
+touch a.png
+ls --color=auto
+cp --help
+cp a.png toms-website
+ls --color=auto
+cd toms-website
+cd toms-website
+rm a.png toms-website
+ls --color=auto
+cp website-boilerplate toms-website
+cp -r website-boilerplate toms-website
