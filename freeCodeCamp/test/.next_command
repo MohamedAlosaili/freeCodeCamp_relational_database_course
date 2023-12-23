@@ -147,3 +147,9 @@ cd images
 ls --color=auto
 cd ..
 ls --color=auto
+rm *.{svg, png, jpg, jpeg}
+ls --color=auto
+rm *.{svg,png,jpg,jpeg}
+ls --color=auto
+cd images
+rm background.jpg
