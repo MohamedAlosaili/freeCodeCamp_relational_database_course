@@ -118,3 +118,8 @@ touch background.jpg
 touch header.png
 touch footer.jpeg
 ls --color=auto
+ls --color=auto -h
+ls --color=auto -H
+ls --color=auto --help
+ls --color=auto
+touch roboto.font
