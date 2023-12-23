@@ -281,3 +281,20 @@ find -name footer.jpeg
 mv images/footer.jpeg client/assets/images
 find
 rmdir images
+ls --color=auto
+ls --color=auto --help
+ls --color=auto -a
+__vsc_prompt_cmd_original
+ls --color=auto -1
+mv images/background.jpg client/assets/images
+mv website/images/background.jpg client/assets/images
+rm images/background.jpg
+rm images/background.jpg
+rm images/background.jpg
+find
+rm images/background.jpg
+cd images
+mkdir images
+touch images/background.jpg
+rmdir images
+rm images/background.jpg
