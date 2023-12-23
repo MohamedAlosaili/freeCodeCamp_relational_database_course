@@ -165,3 +165,12 @@ ls --color=auto
 __vsc_prompt_cmd_original
 cp CodeAlly.svg CodeRoad.svg ../
 cd ..
+ls --color=auto
+cd images
+ls --color=auto
+rm CodeAlly.svg CodeRoad.svg
+__vsc_prompt_cmd_original
+ls --color=auto
+cd ..
+ls --color=auto
+ls --color=auto
