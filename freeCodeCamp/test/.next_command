@@ -254,3 +254,9 @@ cd assets/images
 cd ../../../
 cd images
 ls --color=auto
+mv ./background.jpg ./footer.jpeg ./header.png ../
+ls --color=auto
+cd ../
+ls --color=auto
+cd images
+mv header.png ../
