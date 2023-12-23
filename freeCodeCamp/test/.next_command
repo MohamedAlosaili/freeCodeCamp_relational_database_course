@@ -107,3 +107,5 @@ ls --color=auto
 touch .gitiqnore
 ls --color=auto
 touch .gitignore
+ls --color=auto
+ls --color=auto
