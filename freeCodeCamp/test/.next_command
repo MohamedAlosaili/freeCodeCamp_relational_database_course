@@ -215,3 +215,8 @@ mv index.html client/src
 ls --color=auto
 find
 find
+find
+mv index.js
+mv index.js client/src
+find
+mv index.js client/src
