@@ -232,3 +232,9 @@ find client
 find --help
 find name index.html
 find -name index.html
+find -name ^back[a-zA-Z]d$.*
+find -name /^back[a-zA-Z]d$.*/
+find -name '^back[a-zA-Z]d$.*'
+find -name *.js
+find -name CodeAlly.svg CodeRoad.svg
+find -name styles.css
