@@ -253,3 +253,4 @@ cd ../../
 cd assets/images
 cd ../../../
 cd images
+ls --color=auto
