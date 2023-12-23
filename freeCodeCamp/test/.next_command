@@ -320,3 +320,5 @@ ls --color=auto
 rm fonts
 rmdir fonts
 rm -r fonts
+ls --color=auto
+ls --color=auto
